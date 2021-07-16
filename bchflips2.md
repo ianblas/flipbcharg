@@ -18,6 +18,8 @@ Objective Met ✅
     
    <p align="center"><img width="800px" src="https://pbs.twimg.com/media/E0-2irLX0AMchXn?format=jpg" /></p>
    
+   <p align="center"><img width="800px" src="https://github.com/ianblas/flipbcharg2/blob/main/bcharg100.jpg" /></p>
+   
 
 ## Diversity
 We firmly believe that one of the key factors leading to general acceptance of this currency, is to be able to count with a wide range of types of businesses in which consumers might be interested. For this reason, we ae doing a differentiated and diversified work to reach the greatest number of business options in our communities.
