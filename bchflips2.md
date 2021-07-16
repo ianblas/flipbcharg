@@ -1,4 +1,4 @@
-# BCH Circular Economy: Adoption #250, B2B and salaries in BCH.
+# *BCH Circular Economy: Adoption #250, B2B and salaries in BCH.*
 
 We have achieved the promised objective of 100 merchants, and now continue striving for more.
 We at [**Bitcoin Cash Argentina**](https://bitcoincashargentina.com/) believe that the variables that promote the growth of this currency are many, and they mutually enhance each other.  
@@ -19,14 +19,15 @@ Objective Met ✅
 We firmly believe that one of the key factors leading to general acceptance of this currency, is to be able to count with a wide range of types of businesses in which consumers might be interested. For this reason, we ae doing a differentiated and diversified work to reach the greatest number of business options in our communities.
 Today, there are more than 40 different items making up our map of merchants and businesses.
  
-## Growth of the Community (Supplementary Variables)
+*Growth of the Community* (Supplementary Variables)
 Wallet Activation: We give small quantities of BCH to more than 250 persons every month, so that they can have their first experience in using p2p electronic cash.
 
-## Our community includes with more than 200 active persons.
+Our community includes with *more than 200 active persons.*
 
-## Business-to-Business: We work together with shops and businesses in order to ensure that their own suppliers will also accept BCH. In this way, we help to promote a circular economy using Bitcoin Cash.
+*Business-to-Business:* We work together with shops and businesses in order to ensure that their own suppliers will also accept BCH. In this way, we help to promote a circular economy using Bitcoin Cash.
 
-## Support: Merchants and businesses (i.e., employees, owners, and clients), as well as people in general with doubts or problems to solve, count with our 24/7 technical support through our WhatsApp-based service.
+## Support: 
+Merchants and businesses (i.e., employees, owners, and clients), as well as people in general with doubts or problems to solve, count with our 24/7 technical support through our WhatsApp-based service.
 
 
 # The arrival of major chains and B2B:
