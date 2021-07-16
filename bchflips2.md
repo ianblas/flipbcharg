@@ -89,6 +89,9 @@ Various Gifts:
 - Now, [Prompt Cash](https://prompt.cash/) is part of our recommended services.
 
 ## OUR MILESTONES TIMELINE:
+
+  <p align="center"><img width="800px" src="https://1drv.ms/u/s!AvuONIrJSoRygZFozJ6eAIHwOACY4A?e=dzZLjk" /></p> 
+
 - 10th October 2020: First Gathering.
 - 22nd October 2020: Formal presentation of our Work Plan’s first stage: “Identity and Web”.
 - 2nd February2021: Official Launching of our [Website](www.bitcoincashargentina.com)
