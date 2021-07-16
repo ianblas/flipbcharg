@@ -14,10 +14,14 @@ Objective Met ✅
 Not only have we achieved our objective, but we did it earlier than we had estimated.
 Objective Met ✅
     
+   <p align="center"><img width="800px" src="https://pbs.twimg.com/media/E0-2irLX0AMchXn?format=jpg" /></p>
+   
 
 ## Diversity
 We firmly believe that one of the key factors leading to general acceptance of this currency, is to be able to count with a wide range of types of businesses in which consumers might be interested. For this reason, we ae doing a differentiated and diversified work to reach the greatest number of business options in our communities.
 Today, there are more than 40 different items making up our map of merchants and businesses.
+ 
+<p align="center"><img width="800px" src="https://pbs.twimg.com/media/E6RPK4BXIAY8UJu?format=jpg"  /></p>
  
 *Growth of the Community* (Supplementary Variables)
 Wallet Activation: We give small quantities of BCH to more than 250 persons every month, so that they can have their first experience in using p2p electronic cash.
