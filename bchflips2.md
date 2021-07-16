@@ -67,7 +67,7 @@ Every time a new shop or business starts accepting BCH in Argentina, this is acc
 The generalized mandatory confinement and “social distancing” makes all these interactions more complex in the local BCH community.  However, we work together based on the use of group calls and videoconferences.
 
 # Lotteries:  
-Initiatives that are calling the attention of a different public are lotteries and raffles.  We make direct BCH lotteries, or directed to consumption with specific merchants using the BCH that were won, via Instagram: https://www.instagram.com/bitcoincashargentina/
+Initiatives that are calling the attention of a different public are lotteries and raffles.  We make direct BCH lotteries, or directed to consumption with specific merchants using the BCH that were won, via [Instagram](https://www.instagram.com/bitcoincashargentina/)
 
 Copa América - Football
 We accompanied with our presence all the America Cup Football matches in which Argentina played, and in the final match for the world cup, and gave out BCH prizes to persons who guessed the right results.  There was a total of 7 lotteries, each of which had an average of 200 participants and 200 Likes.  
@@ -87,11 +87,11 @@ More tools on our Website:
 OUR MILESTONES TIMELINE:
 - 10th October 2020: First Gathering.
 - 22nd October 2020: Formal presentation of our Work Plan’s first stage: “Identity and Web”.
-- 2nd February2021: Official Launching of our Website: www.bitcoincashargentina.com
+- 2nd February2021: Official Launching of our [Website](www.bitcoincashargentina.com)
 Activation of Social Media.
 Activation of Social Media Support (WhatsApp, email, Telegram, Signal).
 - 10th March 2021: Start of Stage 2: “0/50 Acceptance & Use”.
-- 15th May 2021: We completed our Flipstarter: http://flipstarter.bitcoincashargentina.com/
+- 15th May 2021: We completed our [Flipstarter](http://flipstarter.bitcoincashargentina.com/)
 - We reached the objective of 100 shops and business in just 60 of the estimated 90 days.
 - At present: There are 100 businesses and companies that have been uploaded to the Website and they are constantly audited in order to ensure that they operate properly. This has been our progress in these first 8 months.
 *INSERT SLIDE SHOWING TIMELINE FOR IMPORTANT SHOPS AND EVENTS*
@@ -104,11 +104,11 @@ We were able to identify that the best way to target consumers is through a new 
 This directory allows the user to easily find location, category, tags, geographical proximity, name, products, etc. Our objective is that users may have a frictionless experience when searching and choosing a merchant that accepts BCH in Argentina.
 
 Together with merchants, we support the use of Bitcoin Cash:
-After several meetings with “https://libroslibertarios.com.ar/”, we reached an agreement whereby Bitcoin Cash Argentina can reach more people.
+After several meetings with [Libros Libertarios](https://libroslibertarios.com.ar/), we reached an agreement whereby Bitcoin Cash Argentina can reach more people.
 We will send all clients who purchase books, a brochure with a full guide and a QR allowing them to claim Bitcoin Cash (BCH).
 - Sending BCH to people purchasing books allows us to know that those receiving them are 100% real persons residing in Argentine (and also allows us to know how many of these people cash-in those funds).
 - The same website where they purchase books allows them to pay in BCH.
-- This website has more than 31,000 followers in Instagram, and sells hundreds of books each month https://www.instagram.com/libroslibertarios/ .
+- This website has more than 31,000 followers in [Instagram](https://www.instagram.com/libroslibertarios/) , and sells hundreds of books each month.
 
 - [Website](https://bitcoincashargentina.com/)
 - [Twitter](https://twitter.com/BCHArgentina)
@@ -116,3 +116,4 @@ We will send all clients who purchase books, a brochure with a full guide and a 
 - [Reddit](https://www.reddit.com/user/BitcoinCashArgentina/)
 - [ReadCash](https://read.cash/@BitcoinCashArgentina)
 - [Donate to BCH Argentina](https://tipb.ch/BCHArgentina)
+
