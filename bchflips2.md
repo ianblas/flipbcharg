@@ -4,6 +4,8 @@ We have achieved the promised objective of 100 merchants, and now continue striv
 We at [**Bitcoin Cash Argentina**](https://bitcoincashargentina.com/) believe that the variables that promote the growth of this currency are many, and they mutually enhance each other.  
 For this reason, and whilst we highlight its use by businesses because it is quantifiable, we would however like to invite you to read the following document carefully, so that you may better appreciate the value that we are adding, geared on consolidating what we have already achieved and promoting the different use cases.
 
+ <p align="center"><img width="400px" src="https://bitcoincashargentina.com/wp-content/uploads/2021/02/icono.png" /></p>
+
 # DESCRIPTION OF TASKS CARRIED OUT - FLIPSTARTER 1 (Stage #3)
 ## Actual use of Bitcoin Cash in Argentina: 100 merchants.
 Quantity
