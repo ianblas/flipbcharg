@@ -56,7 +56,7 @@ One of our merchants is in the restaurant business: Shawarma Al Amir.
 Another one of our merchants is in the butchery business: Carnicería Agustín.
 We thus detected that there was an opportunity of linking them both together so they could formalize sale-and-purchase operations between them, thus also promoting B2B.
 
-## The BCH Experience:
+## [The BCH Experience:](https://www.youtube.com/watch?v=qjTpMRQu5Nk)
 - Two in-person Meet-ups were held:
 - “Che Bonche” Beer Hall & Bar in the City of Buenos Aires.
 - The third Meet-up will be held during the inauguration of a new shop (French Crepes BA), which is in the China Town tourist area of the City of Buenos Aires.
