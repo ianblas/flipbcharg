@@ -87,7 +87,7 @@ Various Gifts:
 4 lotteries were held that gave away payment coupons to be used with our merchants.  This helped to promote consumption in shops accepting BCH
 
 
-## Audit:
+## [Audit:](https://www.instagram.com/p/CQq3eMksuQF/)
 - Each audit implies educational and training work, amongst shop owners as well as employees.
 - We supply them with stickers, QR code frames, merchandising, etc.
 - We audited 70 physical shops and businesses (in-person).
