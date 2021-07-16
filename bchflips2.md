@@ -33,11 +33,14 @@ Wallet Activation: We give small quantities of BCH to more than 250 persons ever
 ### K24
 One of the major successes in the actual use of BCH in Argentina, was the incorporation of K24 (Convenience Stores chain), which to date has 30 active sales points and the possibility of introducing BCH throughout its entire network of 84 sales points. Each of these shops requires extensive employee training work. In this way, we ensure that any person in Argentina’s Capital City (Buenos Aires) can buy a wide assortment of daily-use consumer products using BCH.
 
-## Suppliers: Thanks to the strong link built with the owners of the K24 chain, we were able to access their suppliers, which opened the way for B2B using Bitcoin Cash in Argentina.
+## Suppliers:
+Thanks to the strong link built with the owners of the K24 chain, we were able to access their suppliers, which opened the way for B2B using Bitcoin Cash in Argentina.
 
-## Salaries: This business chain intends to use revenues generated through BHC to pay all their 300 employees’ salaries, either fully or partially.
+## Salaries:
+This business chain intends to use revenues generated through BHC to pay all their 300 employees’ salaries, either fully or partially.
 
-## Remittances: The 300 employees of the chain are for the most part immigrants from Venezuela. This opens the opportunity for us of generating a monthly flow of remittances from hundreds of immigrants living in Buenos Aires who need to send money to their families abroad.  The good experience that these persons have with BCH would be shared by them with other immigrants, and this could trigger a boom in BCH remittances, thus promoting the direct use of the currencie in their countries of origin.
+## Remittances:
+The 300 employees of the chain are for the most part immigrants from Venezuela. This opens the opportunity for us of generating a monthly flow of remittances from hundreds of immigrants living in Buenos Aires who need to send money to their families abroad.  The good experience that these persons have with BCH would be shared by them with other immigrants, and this could trigger a boom in BCH remittances, thus promoting the direct use of the currencie in their countries of origin.
 
 ## Another B2B example:
 One of our merchants is in the restaurant business: Shawarma Al Amir.
