@@ -114,10 +114,10 @@ We will send all clients who purchase books, a brochure with a full guide and a 
 - The same website where they purchase books allows them to pay in BCH.
 - This website has more than 31,000 followers in [Instagram](https://www.instagram.com/libroslibertarios/) , and sells hundreds of books each month.
 
+## BCH Argentina:
 - [Website](https://bitcoincashargentina.com/)
 - [Twitter](https://twitter.com/BCHArgentina)
 - [Instagram](https://www.instagram.com/bitcoincashargentina/)
 - [Reddit](https://www.reddit.com/user/BitcoinCashArgentina/)
 - [ReadCash](https://read.cash/@BitcoinCashArgentina)
 - [Donate to BCH Argentina](https://tipb.ch/BCHArgentina)
-
