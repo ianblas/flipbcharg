@@ -78,7 +78,7 @@ Every time a new shop or business starts accepting BCH in Argentina, this is acc
 ## Virtual Meet-ups:
 The generalized mandatory confinement and “social distancing” makes all these interactions more complex in the local BCH community.  However, we work together based on the use of group calls and videoconferences.
 
-3# Lotteries:  
+## Lotteries:  
 Initiatives that are calling the attention of a different public are lotteries and raffles.  We make direct BCH lotteries, or directed to consumption with specific merchants using the BCH that were won, via [Instagram](https://www.instagram.com/bitcoincashargentina/)
 
 ## Copa América - Football
@@ -114,9 +114,9 @@ Activation of Social Media Support (WhatsApp, email, Telegram, Signal).
 ## STAGE #4: “100/250 ACCEPTANCE & USE, B2B, REMITTANCES”
 Implementation Period: *180 days.* (We will endeavour to reach this number as quickly as possible, however we feel more accountable by accepting a commitment to a specific deadline date).
 
-## UPGRADED WEB – *NEW SEARCH ENGINE*
+## UPGRADED WEB – [*NEW SEARCH ENGINE*](https://bitcoincashargentina.com/directorio/)
 We were able to identify that the best way to target consumers is through a better search tool.  For this reason, we have incorporated into our website a new search engine that simplifies directing clients to the merchants that accept BCH in Argentina.
-This directory allows the user to easily find location, category, tags, geographical proximity, name, products, etc. Our objective is that users may have a frictionless experience when searching and choosing a merchant that accepts BCH in Argentina.
+This [directory](https://bitcoincashargentina.com/directorio/) allows the user to easily find location, category, tags, geographical proximity, name, products, etc. Our objective is that users may have a frictionless experience when searching and choosing a merchant that accepts BCH in Argentina.
 
 ## Together with merchants, we support the use of Bitcoin Cash:
 After several meetings with [Libros Libertarios](https://libroslibertarios.com.ar/), we reached an agreement whereby Bitcoin Cash Argentina can reach more people.
