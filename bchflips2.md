@@ -81,7 +81,7 @@ The generalized mandatory confinement and “social distancing” makes all thes
 ## Lotteries:  
 Initiatives that are calling the attention of a different public are lotteries and raffles.  We make direct BCH lotteries, or directed to consumption with specific merchants using the BCH that were won, via [Instagram](https://www.instagram.com/bitcoincashargentina/)
 
-## Copa América - Football
+## Copa América - [Football](https://www.instagram.com/p/CREt-6sL9EN/)
 We accompanied with our presence all the America Cup Football matches in which Argentina played, and in the final match for the world cup, and gave out BCH prizes to persons who guessed the right results.  There was a total of 7 lotteries, each of which had an average of 200 participants and 200 Likes.  
 Various Gifts:
 4 lotteries were held that gave away payment coupons to be used with our merchants.  This helped to promote consumption in shops accepting BCH
