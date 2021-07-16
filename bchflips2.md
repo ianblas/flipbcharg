@@ -90,7 +90,7 @@ Various Gifts:
 
 ## OUR MILESTONES TIMELINE:
 
-  <p align="center"><img width="800px" src="https://1drv.ms/u/s!AvuONIrJSoRygZFozJ6eAIHwOACY4A?e=dzZLjk" /></p> 
+  <p align="center"><img width="800px" src="https://pbs.twimg.com/media/E6cWow4XMAQX2m9?format=jpg" /></p> 
 
 - 10th October 2020: First Gathering.
 - 22nd October 2020: Formal presentation of our Work Plan’s first stage: “Identity and Web”.
