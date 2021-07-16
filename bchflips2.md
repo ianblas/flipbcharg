@@ -73,22 +73,22 @@ The generalized mandatory confinement and “social distancing” makes all thes
 # Lotteries:  
 Initiatives that are calling the attention of a different public are lotteries and raffles.  We make direct BCH lotteries, or directed to consumption with specific merchants using the BCH that were won, via [Instagram](https://www.instagram.com/bitcoincashargentina/)
 
-Copa América - Football
+# Copa América - Football
 We accompanied with our presence all the America Cup Football matches in which Argentina played, and in the final match for the world cup, and gave out BCH prizes to persons who guessed the right results.  There was a total of 7 lotteries, each of which had an average of 200 participants and 200 Likes.  
 Various Gifts:
 4 lotteries were held that gave away payment coupons to be used with our merchants.  This helped to promote consumption in shops accepting BCH
 
 
-Audit:
+# Audit:
 - Each audit implies educational and training work, amongst shop owners as well as employees.
 - We supply them with stickers, QR code frames, merchandising, etc.
 - We audited 70 physical shops and businesses (in-person).
 - We audited 30 digital shops and businesses.
 
-More tools on our Website:
+# More tools on our Website:
 - Now, [Prompt Cash](https://prompt.cash/) is part of our recommended services.
 
-OUR MILESTONES TIMELINE:
+# OUR MILESTONES TIMELINE:
 - 10th October 2020: First Gathering.
 - 22nd October 2020: Formal presentation of our Work Plan’s first stage: “Identity and Web”.
 - 2nd February2021: Official Launching of our [Website](www.bitcoincashargentina.com)
@@ -100,21 +100,21 @@ Activation of Social Media Support (WhatsApp, email, Telegram, Signal).
 - At present: There are 100 businesses and companies that have been uploaded to the Website and they are constantly audited in order to ensure that they operate properly. This has been our progress in these first 8 months.
 *INSERT SLIDE SHOWING TIMELINE FOR IMPORTANT SHOPS AND EVENTS*
 
-STAGE #4: “100/250 ACCEPTANCE & USE, B2B, REMITTANCES”
-Implementation Period: 180 days. (We will endeavour to reach this number as quickly as possible, however we feel more accountable by accepting a commitment to a specific deadline date). Required Budget: 250 BCH
+# STAGE #4: “100/250 ACCEPTANCE & USE, B2B, REMITTANCES”
+Implementation Period: *180 days.* (We will endeavour to reach this number as quickly as possible, however we feel more accountable by accepting a commitment to a specific deadline date).
 
-UPGRADED WEB – NEW SEARCH ENGINE
+# UPGRADED WEB – *NEW SEARCH ENGINE*
 We were able to identify that the best way to target consumers is through a new search tool.  For this reason, we have incorporated into our website a new search engine that simplifies directing clients to the merchants that accept BCH in Argentina.
 This directory allows the user to easily find location, category, tags, geographical proximity, name, products, etc. Our objective is that users may have a frictionless experience when searching and choosing a merchant that accepts BCH in Argentina.
 
-Together with merchants, we support the use of Bitcoin Cash:
+# Together with merchants, we support the use of Bitcoin Cash:
 After several meetings with [Libros Libertarios](https://libroslibertarios.com.ar/), we reached an agreement whereby Bitcoin Cash Argentina can reach more people.
 We will send all clients who purchase books, a brochure with a full guide and a QR allowing them to claim Bitcoin Cash (BCH).
 - Sending BCH to people purchasing books allows us to know that those receiving them are 100% real persons residing in Argentine (and also allows us to know how many of these people cash-in those funds).
 - The same website where they purchase books allows them to pay in BCH.
 - This website has more than 31,000 followers in [Instagram](https://www.instagram.com/libroslibertarios/) , and sells hundreds of books each month.
 
-## BCH Argentina:
+# OUR ON-LINE PRESENCE:
 - [Website](https://bitcoincashargentina.com/)
 - [Twitter](https://twitter.com/BCHArgentina)
 - [Instagram](https://www.instagram.com/bitcoincashargentina/)
