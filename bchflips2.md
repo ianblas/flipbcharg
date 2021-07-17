@@ -15,7 +15,7 @@ On 15th May of this year, the [first Bitcoin Cash Argentina Flipstarter](http://
 Objective Met ✅
 
 ## Timeline
-Not only have we achieved our objective, but we did it **earlier than we had estimated**
+Not only have we achieved our objective, but we did it **earlier than we had estimated**.
 Objective Met ✅
     
    <p align="center"><img width="800px" src="https://pbs.twimg.com/media/E0-2irLX0AMchXn?format=jpg" /></p>
