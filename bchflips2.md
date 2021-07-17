@@ -37,7 +37,7 @@ Our community includes with **more than 200 active persons.**
 **Business-to-Business:** We work together with shops and businesses in order to ensure that their own **suppliers will also accept BCH**. In this way, we help to promote a **circular economy using Bitcoin Cash**.
 
 ## Support: 
-Merchants and businesses (i.e., employees, owners, and clients), as well as people in general with doubts or problems to solve, count with our **24/7 technical support** through our WhatsApp-based service.
+Merchants and businesses (i.e., employees, owners, and clients), as well as people in general with doubts or problems to solve, count with our **24/7 technical support** through our [WhatsApp-based service](https://wa.me/5491164883409/).
 
 
 ## The arrival of major chains and B2B:
@@ -97,7 +97,7 @@ We accompanied with our presence all the America Cup Football matches in which A
 - We audited **30 digital shops** and businesses.
 
 ## More tools on our Website:
-- Now, [Prompt Cash](https://prompt.cash/) is part of our recommended services.
+- Now, [Prompt Cash](https://bitcoincashargentina.com/#servicios) is part of our recommended services.
 
 ## OUR MILESTONES TIMELINE:
 
