@@ -24,7 +24,7 @@ Objective Met ✅
    
 
 ## Diversity
-We firmly believe that one of the key factors leading to general acceptance of this currency, is to be able to count with a wide range of types of businesses in which consumers might be interested. For this reason, we ae doing a differentiated and diversified work to reach the greatest number of business options in our communities.
+We firmly believe that one of the key factors leading to general acceptance of this currency, is to be able to count with a wide range of types of businesses in which consumers might be interested. For this reason, we ae doing a differentiated and diversified work to reach the **greatest number of business options** in our communities.
 Today, there are **more than 40 different items** making up our map of merchants and businesses.
  
 <p align="center"><img width="800px" src="https://pbs.twimg.com/media/E6RPK4BXIAY8UJu?format=jpg"  /></p>
