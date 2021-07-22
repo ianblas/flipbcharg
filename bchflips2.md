@@ -117,7 +117,7 @@ Activation of Social Media Support (WhatsApp, email, Telegram, Signal).
 Implementation Period: **180 days.** (We will endeavour to reach this number as quickly as possible, however we feel more accountable by accepting a commitment to a specific deadline date).
 
 ## UPGRADED WEB – [**NEW SEARCH ENGINE**](https://bitcoincashargentina.com/directorio/)
-We were able to identify that the best way to target consumers is through a better search tool.  For this reason, we have incorporated into our website a new search engine that simplifies directing clients to the merchants that accept BCH in Argentina.
+We were able to identify that the best way to target consumers is through a better search tool.  For this reason, we are working on incorporating into our website a new search engine that simplifies directing clients to the merchants that accept BCH in Argentina.
 This [**directory**](https://bitcoincashargentina.com/directorio/) allows the user to easily find **location, category, tags, geographical proximity, name, products**, etc. Our objective is that users may have a **frictionless experience** when searching and **choosing a merchant** that accepts BCH in Argentina.
 
 ## Together with merchants, we support the use of Bitcoin Cash:
