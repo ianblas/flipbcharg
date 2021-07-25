@@ -9,7 +9,7 @@ For this reason, and whilst we highlight its use by businesses because it is qua
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 # DESCRIPTION OF TASKS CARRIED OUT - FLIPSTARTER 1 (Stage #3)
-## Actual use of Bitcoin Cash in Argentina: 100 merchants.
+## Actual use of Bitcoin Cash in Argentina: [100 merchants](https://map.bitcoin.com/).
 Quantity
 On 15th May of this year, the [first Bitcoin Cash Argentina Flipstarter](http://flipstarter.bitcoincashargentina.com/) was ended. We committed ourselves to **achieving 100 merchants within 90 days**.
 Objective Met ✅
