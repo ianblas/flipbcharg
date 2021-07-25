@@ -126,7 +126,7 @@ After several meetings with [**Libros Libertarios**](https://libroslibertarios.c
 We will send all clients who purchase books, a brochure with a full guide and a QR allowing them to claim Bitcoin Cash (BCH).
 - Sending BCH to people purchasing books allows us to know that those receiving them are 100% real persons residing in Argentine (and also allows us to know how many of these people cash-in those funds).
 - The same website where they purchase books allows them to pay in BCH.
-- This website has more than **31,000 followers** in [Instagram](https://www.instagram.com/libroslibertarios/) , and sells hundreds of books each month.
+- This website has more than **31,300 followers** in [Instagram](https://www.instagram.com/libroslibertarios/) , and sells hundreds of books each month.
 
 ## OUR ON-LINE PRESENCE:
 - [Website](https://bitcoincashargentina.com/)
