@@ -73,6 +73,7 @@ At the same time, we have given talks together with **educational institutions**
 - [LaEternaVigilancia](https://youtu.be/e7fRxNQSrOA)
 - [Avenida Libertaria](https://youtu.be/Mx8GEbJLLog)
 - [Hotel Atlantida](https://youtu.be/hb3JLLIuuqc)
+- [Libertarian Party of Mexico](https://youtu.be/E9zhMW42UAc)
 
 ## Training for Shops:
 Every time a new shop or business starts accepting BCH in Argentina, this is accompanied by an **educational effort**. This comprehensive training (owners, employees, and consumers) allows the actual use of the currency to grow.
