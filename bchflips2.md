@@ -111,7 +111,7 @@ Activation of Social Media.
 Activation of Social Media Support (WhatsApp, email, Telegram, Signal).
 - 10th March 2021: Start of Stage 2: “0/50 Acceptance & Use”.
 - 15th May 2021: We completed our [Flipstarter](http://flipstarter.bitcoincashargentina.com/)
-- We reached the objective of 100 shops and business in just 60 of the estimated 90 days.
+- We reached the objective of 100 shops and business in just 70 of the estimated 90 days.
 - At present: There are 100 businesses and companies that have been uploaded to the Website and they are constantly audited in order to ensure that they operate properly. This has been our progress in these first 8 months.
 
 ## STAGE #4: “100/250 ACCEPTANCE & USE, B2B, REMITTANCES”
