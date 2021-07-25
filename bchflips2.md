@@ -1,6 +1,6 @@
 # **BCH Circular Economy: Adoption #250, B2B and salaries in BCH.**
 
-We have achieved the promised objective of **100 merchants**, and now continue striving for more.
+We have achieved the promised objective of [**100 merchants**](https://map.bitcoin.com/), and now continue striving for more.
 We at [**Bitcoin Cash Argentina**](https://bitcoincashargentina.com/) believe that the variables that promote the growth of this currency are many, and they mutually enhance each other.  
 For this reason, and whilst we highlight its use by businesses because it is quantifiable, we would however like to invite you to **read the following document** carefully, so that you may better appreciate the value that we are adding, geared on consolidating what we have already achieved and promoting the different use cases.
 
