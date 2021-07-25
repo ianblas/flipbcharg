@@ -20,7 +20,7 @@ Objective Met ✅
     
    <p align="center"><img width="800px" src="https://pbs.twimg.com/media/E0-2irLX0AMchXn?format=jpg" /></p>
    
-   <p align="center"><img width="800px" src="https://github.com/ianblas/flipbcharg2/blob/main/bcharg100.jpg" /></p>
+   <p align="center"><img width="800px" src="https://raw.githubusercontent.com/ianblas/flipbcharg2/main/bcharg100.jpg" /></p>
    
 
 ## Diversity
