@@ -42,6 +42,7 @@ Merchants and businesses (i.e., employees, owners, and clients), as well as peop
 
 ## The arrival of major chains and B2B:
 **K24**
+
 One of the major successes in the actual use of BCH in Argentina, was the incorporation of **K24 (Convenience Stores chain)**, which to date has 30 active sales points and the possibility of introducing BCH throughout its entire network of **84 sales points**. Each of these shops requires **extensive employee training** work. In this way, we ensure that any person in Argentina’s Capital City (Buenos Aires) can buy a wide assortment of **daily-use consumer products** using BCH.
 
 ## Suppliers:
