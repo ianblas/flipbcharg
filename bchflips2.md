@@ -106,7 +106,7 @@ We accompanied with our presence all the America Cup Football matches in which A
 
 - 10th October 2020: First Gathering.
 - 22nd October 2020: Formal presentation of our Work Plan’s first stage: “Identity and Web”.
-- 2nd February2021: Official Launching of our [Website](www.bitcoincashargentina.com)
+- 2nd February2021: [Official Launching](https://youtu.be/J5zP-ubUpXU) of our [Website](www.bitcoincashargentina.com)
 Activation of Social Media.
 Activation of Social Media Support (WhatsApp, email, Telegram, Signal).
 - 10th March 2021: Start of Stage 2: “0/50 Acceptance & Use”.
