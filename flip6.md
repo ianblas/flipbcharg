@@ -7,7 +7,7 @@ That is why it is not enough to consolidate our previous work and update existin
 Given the above, we will be more proactive in implementing initiatives such as: creating more intuitive digital tools for onboarding, incentive programs for merchants who adopt BCH, interactive events and hands-on experiences for new users, as well as more dynamic and accessible educational content.
 Finally, at BCH Argentina, we will seek to launch a transnational organization that shapes the BCH agenda worldwide, coordinating collaborations with other communities and projects to expand our reach.
 
-## What We Have Been Doing (LINK)
+### [What We Have Been Doing](https://github.com/ianblas/flipbcharg/blob/main/what-we-have-been-doing.md)
 
 ## BCH GO
 BCH GO will be a gamified platform created by BCH Argentina to encourage the real-world use of Bitcoin Cash and improve the user experience, driving not only consumption but also updates to the status of the merchant network.
