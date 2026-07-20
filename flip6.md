@@ -110,3 +110,12 @@ A new team has been formed to consolidate an In-Person Annual Conference (IPC) a
 The team is already working on defining the conference format and evaluating potential venues.
 Another example of activity related to this commitment outside of Argentina is the initiative mentioned earlier in the “International Map” section.
 We will seek to coordinate schedules worldwide, enabling the display of BCH ecosystem events on a map, with information such as date, location, format (in-person or virtual), and registration or information links.
+
+----
+
+**Our Online Presence:**
+1. [Website](https://bitcoincashargentina.com/)
+2. [Twitter](https://twitter.com/BCHArgentina)
+3. [Instagram](https://www.instagram.com/bitcoincashargentina/)
+4. [ReadCash](https://read.cash/@BitcoinCashArgentina)
+5. [Donate to BCH Argentina](https://www.bcharg.com/donar/)
