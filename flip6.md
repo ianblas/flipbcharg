@@ -12,6 +12,8 @@ Finally, at BCH Argentina, we will seek to launch a transnational organization t
 ## BCH GO
 BCH GO will be a gamified platform created by BCH Argentina to encourage the real-world use of Bitcoin Cash and improve the user experience, driving not only consumption but also updates to the status of the merchant network.
 The goal is simple: to reward people who use BCH at merchants that already accept it, as well as those who help add new merchants to the network. To that end, the site will feature a points system, public leaderboards, and monthly and annual prizes.
+
+![Real-world Bitcoin Cash adoption in Argentina](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-commercial-adoption.jpg)
 Users will be able to submit transactions via the website, indicating whether they made a purchase at a merchant that accepts BCH or whether they added a new merchant to the network. Each transaction will be manually reviewed by the BCH Argentina team before the corresponding points are approved.
 The site will display a public ranking showing nicknames, pending points, monthly points, and annual points. It will also allow users to sort the ranking by monthly or annual performance and view the winners for each month and the annual winner at the end of the year.
 BCH GO aims to make the adoption of Bitcoin Cash a participatory, transparent, and measurable process: more real purchases, more merchants accepting BCH, and more people involved in growing the Bitcoin Cash circular economy in Argentina.
@@ -21,12 +23,16 @@ Recognizing the importance of ongoing discussions and taking geographical realit
 Based on topics of interest, panels will be organized to pose questions and find answers regarding current challenges.
 This virtual conference will also serve as a catalyst and a filter for identifying the topics that need to be addressed more thoroughly at the IPACa (In-Person Annual Conference – Argentina).
 
+![Bitcoin Cash Conference in Buenos Aires](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-conference-buenos-aires-2024.jpg)
+
 ## Bitcoin Cash Argentina - The Club
 In 2025, we launched a space we called “The BCH Club.” More than 20 people became members and participated in monthly in-person meetings, which featured academic activities, networking, panel discussions, presentations, and recreational and social gatherings.
 The organization covered the costs of the venue, drinks, and snacks, and the proceeds from membership fees (100 USD per person per year) were used to fund a poker tournament.
 In 2026, we continued with this initiative, with our main objectives being to improve the quality of the gatherings and increase the number of members.
 This format has enabled the formation of a core group dedicated to debate and the promotion of concrete actions.
 On the social and recreational front, the game chosen for this period is “Truco” (a traditional Spanish card game in Argentina). As in 2025, the winning pair will take home the proceeds from membership fees.
+
+![Members of the Bitcoin Cash Argentina Club](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-argentina-club-2026.jpg)
 
 ## International BCH Map
 At BCH Argentina, we aim to establish BCHMap.org as an international map of businesses that accept Bitcoin Cash.
@@ -61,6 +67,8 @@ We propose holding **5 new giveaways**.
 ### BCH Experience
 Activities where new users set up a wallet, receive BCH, and make their first purchase.
 The goal is for them to learn about the benefits of BCH through hands-on experience.
+
+![BCH Experience community event](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-experience-panel.jpg)
 We propose holding **6 new BCH Experience events**.
 
 ### Merchant Audits and Maintenance
@@ -105,9 +113,13 @@ This initiative aims to strengthen the way Bitcoin Cash is understood, explained
 ## Anniversary Event
 To mark the sixth anniversary of the founding of BCH Argentina, we will host a commemorative meetup open to the entire community, with the goal of celebrating our journey so far, sharing our current projects, and strengthening ties within the ecosystem.
 
+![BCH Argentina anniversary event](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-anniversary-event.png)
+
 ## BCH INTERNATIONAL
 A new team has been formed to consolidate an In-Person Annual Conference (IPC) and a Virtual Annual Conference (VAC) on a pre-established and ongoing basis, with the aim of providing predictability in the short, medium, and long term.
 The team is already working on defining the conference format and evaluating potential venues.
+
+![International Bitcoin Cash community in Buenos Aires](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-international-community.jpg)
 Another example of activity related to this commitment outside of Argentina is the initiative mentioned earlier in the “International Map” section.
 We will seek to coordinate schedules worldwide, enabling the display of BCH ecosystem events on a map, with information such as date, location, format (in-person or virtual), and registration or information links.
 
