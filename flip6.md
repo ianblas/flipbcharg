@@ -65,9 +65,10 @@ We propose holding **5 new giveaways**.
 ### BCH Experience
 Activities where new users set up a wallet, receive BCH, and make their first purchase.
 The goal is for them to learn about the benefits of BCH through hands-on experience.
+We propose holding **6 new BCH Experience events**.
 
 ![BCH Experience community event](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-experience-panel.jpg)
-We propose holding **6 new BCH Experience events**.
+
 
 ### Merchant Audits and Maintenance
 We update and verify merchants to ensure they continue to accept BCH.
@@ -117,9 +118,10 @@ To mark the sixth anniversary of the founding of BCH Argentina, we will host a c
 A new team has been formed to consolidate an In-Person Annual Conference (IPC) and a Virtual Annual Conference (VAC) on a pre-established and ongoing basis, with the aim of providing predictability in the short, medium, and long term.
 The team is already working on defining the conference format and evaluating potential venues.
 
-![International Bitcoin Cash community in Buenos Aires](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-international-community.jpg)
 Another example of activity related to this commitment outside of Argentina is the initiative mentioned earlier in the “International Map” section.
 We will seek to coordinate schedules worldwide, enabling the display of BCH ecosystem events on a map, with information such as date, location, format (in-person or virtual), and registration or information links.
+
+![International Bitcoin Cash community in Buenos Aires](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-international-community.jpg)
 
 ----
 
