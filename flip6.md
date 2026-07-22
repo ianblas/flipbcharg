@@ -128,7 +128,8 @@ We will seek to coordinate schedules worldwide, enabling the display of BCH ecos
 
 **Our Online Presence:**
 1. [Website](https://bitcoincashargentina.com/)
-2. [Twitter](https://twitter.com/BCHArgentina)
+2. [X](https://x.com/BCHArgentina)
 3. [Instagram](https://www.instagram.com/bitcoincashargentina/)
 4. [ReadCash](https://read.cash/@BitcoinCashArgentina)
-5. [Donate to BCH Argentina](https://www.bcharg.com/donar/)
+5. [Medium](https://medium.com/@BCHArgentina)
+6. [Donate to BCH Argentina](https://www.bcharg.com/donar/)
