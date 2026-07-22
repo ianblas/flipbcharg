@@ -54,6 +54,7 @@ Among its main features, BCHMap.org includes:
 - **Multilingual availability:** Support in German, Filipino, Portuguese, French, Mandarin, and Japanese, in addition to Spanish and English, so that different communities can use the tool in their own language.
 - **An integrated form for adding businesses:** Available in all these languages, making it easier for new businesses from different regions of the world to be added directly to the map.
 - **Display of events and conferences:** The upcoming addition of the ability to pin BCH ecosystem events on the map, including information such as date, location, format (in-person or virtual), and registration or information links.
+
 The goal is for BCHMap.org to be not just a directory, but an international infrastructure for Bitcoin Cash: more useful for users, easier for communities to maintain, and more valuable as a tool for global adoption. In addition, the project will move toward an open-source model for both its code and its database, protecting merchants’ sensitive private information and avoiding the disclosure of personal data—such as the owner’s name or phone number—when it is not appropriate to do so.
 
 ## Commercial Adoption and Community Growth
