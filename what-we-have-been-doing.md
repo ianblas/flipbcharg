@@ -4,6 +4,8 @@ For more than five years, Bitcoin Cash Argentina has worked continuously to expa
 
 Updated through July 21, 2026, this document consolidates the work recorded in BCH Argentina's public X history beginning in November 2020, its monthly reports from November 2021 through October 2025, and later public completion reports and evidence collected by the team. It groups recurring work and individual milestones by area, without separating them by funding campaign or repeating the same initiative every month.
 
+Although extensive, this is not an exhaustive record. Much of BCH Argentina's work has been continuous, decentralized, informal, and carried out across many different channels. As a result, numerous smaller activities, collaborations, support interactions, merchant visits, media appearances, and community contributions were not always documented publicly and may be missing from this list. This document should therefore be understood as a living overview of confirmed work rather than a complete inventory of everything the community has done.
+
 ## Adoption and merchant network
 
 - We helped grow the Argentine BCH merchant network from only two verified businesses when the adoption effort began in March 2021 to [75 by July 2021](https://x.com/BCHArgentina/status/1410990589450100738), [95 later that month](https://x.com/BCHArgentina/status/1415444657593589768), roughly 200 in February 2022, 250 in May 2022, 275 in October 2022, [more than 300 in March 2023](https://read.cash/@BitcoinCashArgentina/300-merchants-accept-bch-in-argentina-fa3b117b), [350 in the following expansion](https://read.cash/@BitcoinCashArgentina/flipstarter-4-completed-9003a2d0), and [more than 400 shops and businesses](https://x.com/BCHArgentina/status/2016988208966320338).
