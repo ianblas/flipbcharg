@@ -7,7 +7,7 @@ That is why it is not enough to consolidate our previous work and update existin
 Given the above, we will be more proactive in implementing initiatives such as: creating more intuitive digital tools for onboarding, incentive programs for merchants who adopt BCH, interactive events and hands-on experiences for new users, as well as more dynamic and accessible educational content.
 Finally, at BCH Argentina, we will seek to launch a transnational organization that shapes the BCH agenda worldwide, coordinating collaborations with other communities and projects to expand our reach.
 
-### [Last Flipstarter completed](https://medium.com/@BCHArgentina/bch-argentina-flipstarter-5-goals-completed-07714d3297ee)
+### [Previous Flipstarter: Goals Completed](https://medium.com/@BCHArgentina/bch-argentina-flipstarter-5-goals-completed-07714d3297ee)
 ### [What We Have Been Doing](https://github.com/ianblas/flipbcharg/blob/main/what-we-have-been-doing.md)
 
 ## BCH GO
