@@ -2,9 +2,13 @@
 
 ## Abstract
 BCH Argentina seeks to continue and expand its work for the sixth consecutive year, strengthening an active community, providing useful tools, and building an infrastructure capable of sustaining the real-world use of BCH over time.
+
 In the current context of falling prices, we are redoubling our commitment. It is precisely at times like these that we build the most, innovate the most, and demonstrate the true value of BCH the most.
+
 That is why it is not enough to consolidate our previous work and update existing resources; rather, the challenge is to create new opportunities for participation, education, and growth.
+
 Given the above, we will be more proactive in implementing initiatives such as: creating more intuitive digital tools for onboarding, incentive programs for merchants who adopt BCH, interactive events and hands-on experiences for new users, as well as more dynamic and accessible educational content.
+
 Finally, at BCH Argentina, we will seek to launch a transnational organization that shapes the BCH agenda worldwide, coordinating collaborations with other communities and projects to expand our reach.
 
 #### [Previous Flipstarter: Goals Completed](https://medium.com/@BCHArgentina/bch-argentina-flipstarter-5-goals-completed-07714d3297ee)
