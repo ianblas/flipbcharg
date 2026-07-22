@@ -23,27 +23,39 @@ BCH GO aims to make the adoption of Bitcoin Cash a participatory, transparent, a
 
 ## Virtual Annual Conference (BCH VAC)
 Recognizing the importance of ongoing discussions and taking geographical realities into account, BCH Argentina will seek to establish the tradition of holding the “Virtual Annual Conference - arg.”—BCH VACa.
+
 Based on topics of interest, panels will be organized to pose questions and find answers regarding current challenges.
+
 This virtual conference will also serve as a catalyst and a filter for identifying the topics that need to be addressed more thoroughly at the IPACa (In-Person Annual Conference – Argentina).
 
 ![Bitcoin Cash Conference in Buenos Aires](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-conference-buenos-aires-2024.jpg)
 
 ## Bitcoin Cash Argentina - The Club
 In 2025, we launched a space we called “The BCH Club.” More than 20 people became members and participated in monthly in-person meetings, which featured academic activities, networking, panel discussions, presentations, and recreational and social gatherings.
+
 The organization covered the costs of the venue, drinks, and snacks, and the proceeds from membership fees (100 USD per person per year) were used to fund a poker tournament.
+
 In 2026, we continued with this initiative, with our main objectives being to improve the quality of the gatherings and increase the number of members.
+
 This format has enabled the formation of a core group dedicated to debate and the promotion of concrete actions.
+
 On the social and recreational front, the game chosen for this period is “Truco” (a traditional Spanish card game in Argentina). As in 2025, the winning pair will take home the proceeds from membership fees.
 
 ![Members of the Bitcoin Cash Argentina Club](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-argentina-club-2026.jpg)
 
 ## International BCH Map
 At BCH Argentina, we aim to establish BCHMap.org as an international map of businesses that accept Bitcoin Cash.
+
 The project draws on the experience we’ve gained over years of work promoting merchant adoption in the region. Many of its current features emerged precisely from that journey: first as a tool focused on Argentine merchants, and then as a platform that evolved in response to the ecosystem’s real needs.
+
 Our goal isn’t simply to display locations on a map, but to build a global, useful tool that will be maintained over time. We want BCHMap.org to enable different communities to add, update, and manage their own merchants in a more organized way, without always relying on a single team.
+
 At BCH Argentina, we aim to continue keeping local information up to date, further developing the map’s global infrastructure, and welcoming new international communities that wish to join the project.
+
 It’s worth noting, as an example of the above, that the Philippine community, led by Paytaca, is already integrated into the platform.
+
 In this way, BCHMap.org can bring together merchants from different countries in one place, improve the quality of the available information, and become a shared infrastructure for the global adoption of Bitcoin Cash: built on the experience of BCH Argentina, but open to participation from communities around the world.
+
 Among its main features, BCHMap.org includes:
 - **Recent purchase log:** See when there was recent activity at a business.
 - **Visual traffic-light system:** Quickly distinguish between businesses with recent activity, those with less activity, and businesses that may require review.
@@ -66,26 +78,37 @@ At BCH Argentina, we aim to drive real-world adoption of Bitcoin Cash by combini
 
 ### Giveaways with Merchants That Accept BCH
 We hold giveaways featuring products and services from merchants that accept BCH to promote them and attract new followers and customers.
+
 We propose holding **5 new giveaways**.
 
 ### BCH Experience
 Activities where new users set up a wallet, receive BCH, and make their first purchase.
+
 The goal is for them to learn about the benefits of BCH through hands-on experience.
+
 We propose holding **6 new BCH Experience events**.
 
 ![BCH Experience community event](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-experience-panel.jpg)
 
 
 ### Merchant Audits and Maintenance
+
 We update and verify merchants to ensure they continue to accept BCH.
+
 This improves the quality of information and trust in the network.
+
 We aim to add **50 new merchants** and reach a record total of **500 merchants** incorporated into the Bitcoin Cash network in Argentina.
 
 ### Influencers and Social Media Reach
+
 We work with influencers to raise awareness of BCH and its real benefits.
+
 We aim to set it apart from misleading projects and showcase its practical applications.
+
 These campaigns expand our reach and attract new users to the ecosystem.
+
 For example, we partnered with Lilia Lemoine, successfully exposing Bitcoin Cash to a wide audience within Argentina’s political and media spheres.
+
 Additionally, we are the official sponsor of the LHDA Podcast (@LHDA16), a key platform for libertarian debate in Argentina, featuring unfiltered ideas and conversations followed by hundreds of thousands of people.
 
 ## Maintenance and Updates to BCH Argentina’s Tools
@@ -93,26 +116,38 @@ At BCH Argentina, we strive to maintain and improve our digital tools to organiz
 
 ### bcharg.com
 bcharg.com is BCH Argentina’s main website. It brings together information about the project, resources for new users, community activities, and relevant links to the local ecosystem.
+
 The goal is to keep it up to date, improve its design, and provide a clear entry point for those who want to learn about Bitcoin Cash.
 
 ### caja.bcharg.com
 CAJA is a tool designed for merchants to facilitate the use of Bitcoin Cash.
+
 It allows for simple BCH transactions, helping merchants accept payments with less friction and easy integration with their existing systems. We aim to continue improving it to make it more stable, user-friendly, and useful in real-world scenarios.
 
 ### WhatsApp Bot for the P2P Community
 BCH Argentina has an active WhatsApp group. It was created to facilitate peer-to-peer (P2P) buying and selling of Bitcoin Cash for local currency.
+
 To improve security, we developed a karma bot that manages reputation within the group. It allows users to log invitations, link users to phone numbers, view transaction history, and earn points after successful transactions.
+
 The system operates on a referral basis: whoever invites someone is responsible for that person. This way, before conducting a transaction, participants can verify reputation, transaction history, and connections within the community.
 
 ## Information in Spanish about Bitcoin Cash
 At BCH Argentina, we want to improve the quality of information available in Spanish about Bitcoin Cash.
+
 One of the current problems is that much of the content about BCH found online is outdated, incomplete, or based on questionable sources. Many descriptions still repeat outdated ideas, such as technical limitations that no longer reflect the network’s current state, or ignore modern capabilities like CashTokens and other tools that are now part of the ecosystem.
+
 This particularly affects new users, journalists, content creators, and people researching Bitcoin Cash for the first time. If the foundational information is outdated, the articles, videos, posts, and explanations produced from it also end up conveying an outdated image of BCH.
+
 Added to this is a new challenge: artificial intelligence systems also rely on information available on the web. If public sources in Spanish are poor, outdated, or incomplete, automated responses may also repeat errors or misrepresent BCH.
+
 That’s why, at BCH Argentina, we aim to improve this information base in Spanish. This includes creating, updating, and organizing public content about Bitcoin Cash, its features, its real-world uses, its current capabilities, and its relevance to Argentina and the region.
+
 In addition, we will work on data sources and structures that serve as the foundation for search engines, language models, and content creators. This includes updating information on Wikidata, improving public documentation on GitHub, reviewing READMEs for projects linked to the ecosystem, organizing technical resources, and better showcasing current capabilities such as CashTokens, native DeFi, and scalability.
+
 We also aim to improve how content from BCH Argentina and other related resources appears on the web by incorporating structured data where appropriate, so that search engines and artificial intelligence systems can better interpret the information, identify relevant sources, and display more accurate results.
+
 The goal is to create content that is easy for users, the media, content creators, search engines, and artificial intelligence systems to find, cite, and use.
+
 This initiative aims to strengthen the way Bitcoin Cash is understood, explained, and discovered in the Spanish-speaking world.
 
 ## Anniversary Event
@@ -122,9 +157,11 @@ To mark the sixth anniversary of the founding of BCH Argentina, we will host a c
 
 ## BCH INTERNATIONAL
 A new team has been formed to consolidate an In-Person Annual Conference (IPC) and a Virtual Annual Conference (VAC) on a pre-established and ongoing basis, with the aim of providing predictability in the short, medium, and long term.
+
 The team is already working on defining the conference format and evaluating potential venues.
 
 Another example of activity related to this commitment outside of Argentina is the initiative mentioned earlier in the “International Map” section.
+
 We will seek to coordinate schedules worldwide, enabling the display of BCH ecosystem events on a map, with information such as date, location, format (in-person or virtual), and registration or information links.
 
 ![International Bitcoin Cash community in Buenos Aires](https://raw.githubusercontent.com/ianblas/flipbcharg/main/flip6-imagen/bch-international-community.jpg)
