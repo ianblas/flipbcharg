@@ -12,9 +12,13 @@ Finally, at BCH Argentina, we will seek to launch a transnational organization t
 
 ## BCH GO
 BCH GO will be a gamified platform created by BCH Argentina to encourage the real-world use of Bitcoin Cash and improve the user experience, driving not only consumption but also updates to the status of the merchant network.
+
 The goal is simple: to reward people who use BCH at merchants that already accept it, as well as those who help add new merchants to the network. To that end, the site will feature a points system, public leaderboards, and monthly and annual prizes.
+
 Users will be able to submit transactions via the website, indicating whether they made a purchase at a merchant that accepts BCH or whether they added a new merchant to the network. Each transaction will be manually reviewed by the BCH Argentina team before the corresponding points are approved.
+
 The site will display a public ranking showing nicknames, pending points, monthly points, and annual points. It will also allow users to sort the ranking by monthly or annual performance and view the winners for each month and the annual winner at the end of the year.
+
 BCH GO aims to make the adoption of Bitcoin Cash a participatory, transparent, and measurable process: more real purchases, more merchants accepting BCH, and more people involved in growing the Bitcoin Cash circular economy in Argentina.
 
 ## Virtual Annual Conference (BCH VAC)
